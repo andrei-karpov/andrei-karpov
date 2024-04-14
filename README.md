@@ -1,32 +1,25 @@
 ﻿<div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/b85/b850adc38f0223dec437ee965d76b996.jpg?12cec072-eb19-43e7-9a98-ab5a701c18cd" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/b85/b850adc38f0223dec437ee965d76b996.jpg?82ea3d1b-5f7f-4ab8-a164-731b53872d49" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/1791661/">Кровь, пот и GIT</a></h4>
 > <small>Ведущий разработчик 1С Андрей Карпов на конференции Infostart Event 2021 Post-Apocalypse поделился ошибками, которые совершают новички в работе с GIT. В докладе четыре кейса с пошаговыми инструкциями, которые позволят не допускать конфликтов в разработке.</small>  
 > <br clear="left">
 >
 > | :star: +69 |  :calendar: 17.01.2023 |  :speech_balloon: 45 |  :eyes: 9971 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/117/117ae5def59a9cc4b326f00c9ee8f32e.png?982e38dd-00ed-4b3c-bf71-a0384db09330" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/117/117ae5def59a9cc4b326f00c9ee8f32e.png?6515fe8b-fe7a-4d6b-9db0-f5c4aa855105" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/tools/1599938/">АТОЛ ВЕБ-СЕРВИС 54ФЗ. Для работы с онлайн-кассами АТОЛ через веб-сервер (Ревизия 3004). Поддержка ФФД 1.2</a></h4>
 > <small>Хотите ускорить печать чеков, или печатать с разных рабочих мест на один фискальный регистратор? В этом вам поможет настроенный веб-сервис от фирмы АТОЛ, а данная разработка позволит интегрировать его с вашей программой 1С. Поддерживает работу по формату фискальных данных (ФФД) 1.2, ревизия 3004.</small>  
 > <br clear="left">
 >
 > | :star: +20 |  :calendar: 07.02.2022 |  :speech_balloon: 87 |  :eyes: 14166 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/895/8950604280118c383a1e0c5aaae4997d.png?45150eff-332a-40b5-a23b-660c35aaea7c" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/895/8950604280118c383a1e0c5aaae4997d.png?5a91eb5a-619a-4409-a18e-8a06d8d6ec8e" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/reports/1443392/">K-SOFT: Улучшенная форма отчета</a></h4>
 > <small>Если вы любитель добавлять много отборов на форму отчета, и вас раздражает, что отборы занимают большую часть отчета, и их никак не убрать, то вам сюда. Простая доработка, что позволит скрыть отборы на время анализа отчета.</small>  
 > <br clear="left">
 >
 > | :star: +28 |  :calendar: 19.05.2021 |  :speech_balloon: 20 |  :eyes: 10523 |
->  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/559/559d4aa039272b01571b0364ec0dbe46.png?683d3d48-d18b-4b11-9ab1-b285b9289f6d" width="96" align="left"> 
-> <h4 style="color: white;"><a href="https://infostart.ru/1c/tools/1330826/">K-SOFT. Эмулятор ККТ с передачей данных. Управляемые формы. ФФД 1.1 (Ревизия 3002)</a></h4>
-> <small>Эмулятор ККТ с передачей данных позволяет печатать чеки, а также выводить их на экран в программе 1С без необходимости физического подключения фискальных регистраторов. Представляет из себя расширение, которое подключается к конфигурациям фирмы 1С, со встроенной библиотекой подключаемого оборудования (БПО). Вместо расширения, при желании, функционал можно включить и в конфигурацию. Поддерживает маркировку и печать чека коррекции с учетом проданной номенклатуры.</small>  
-> <br clear="left">
->
-> | :star: +64 |  :calendar: 23.11.2020 |  :speech_balloon: 139 |  :eyes: 40046 |
 >  |-|-|-|-|  
 </div>
