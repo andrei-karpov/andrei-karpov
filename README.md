@@ -1,25 +1,25 @@
 ﻿<div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/b85/b850adc38f0223dec437ee965d76b996.jpg?73ad72d2-5ca2-4c6c-949a-ff8e1ef5cdca" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/b85/b850adc38f0223dec437ee965d76b996.jpg?a79e3c30-d8a1-4fbb-9351-cc03f84265be" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/1791661/">Кровь, пот и GIT</a></h4>
 > <small>Ведущий разработчик 1С Андрей Карпов на конференции Infostart Event 2021 Post-Apocalypse поделился ошибками, которые совершают новички в работе с GIT. В докладе четыре кейса с пошаговыми инструкциями, которые позволят не допускать конфликтов в разработке.</small>  
 > <br clear="left">
 >
-> | :star: +69 |  :calendar: 17.01.2023 |  :speech_balloon: 45 |  :eyes: 10002 |
+> | :star: +69 |  :calendar: 17.01.2023 |  :speech_balloon: 45 |  :eyes: 10013 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/117/117ae5def59a9cc4b326f00c9ee8f32e.png?623429fb-7a76-4481-9923-3b0a3f9bee14" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/117/117ae5def59a9cc4b326f00c9ee8f32e.png?d28c5cc4-6b03-4ac7-a804-7f54e7fa8070" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/tools/1599938/">АТОЛ ВЕБ-СЕРВИС 54ФЗ. Для работы с онлайн-кассами АТОЛ через веб-сервер (Ревизия 3004). Поддержка ФФД 1.2</a></h4>
 > <small>Хотите ускорить печать чеков, или печатать с разных рабочих мест на один фискальный регистратор? В этом вам поможет настроенный веб-сервис от фирмы АТОЛ, а данная разработка позволит интегрировать его с вашей программой 1С. Поддерживает работу по формату фискальных данных (ФФД) 1.2, ревизия 3004.</small>  
 > <br clear="left">
 >
-> | :star: +20 |  :calendar: 07.02.2022 |  :speech_balloon: 87 |  :eyes: 14181 |
+> | :star: +20 |  :calendar: 07.02.2022 |  :speech_balloon: 87 |  :eyes: 14187 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/895/8950604280118c383a1e0c5aaae4997d.png?015af7ad-4a2c-4ab0-9c80-25e4e127da04" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/895/8950604280118c383a1e0c5aaae4997d.png?0a206457-7a00-4b74-84c8-544e942d5b18" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/reports/1443392/">K-SOFT: Улучшенная форма отчета</a></h4>
 > <small>Если вы любитель добавлять много отборов на форму отчета, и вас раздражает, что отборы занимают большую часть отчета, и их никак не убрать, то вам сюда. Простая доработка, что позволит скрыть отборы на время анализа отчета.</small>  
 > <br clear="left">
 >
-> | :star: +28 |  :calendar: 19.05.2021 |  :speech_balloon: 20 |  :eyes: 10528 |
+> | :star: +28 |  :calendar: 19.05.2021 |  :speech_balloon: 20 |  :eyes: 10531 |
 >  |-|-|-|-|  
 </div>
