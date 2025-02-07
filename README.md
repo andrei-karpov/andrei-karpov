@@ -1,25 +1,25 @@
 ﻿<div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/b85/b850adc38f0223dec437ee965d76b996.jpg?548086b8-00be-4cda-b935-e2b70c57d53a" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/5eb/5eb4c6e841bff63dfec4efd18a2665e1.png?6c1a77b7-0e06-4931-bfca-627d590a1180" width="96" align="left"> 
+> <h4 style="color: white;"><a href="https://infostart.ru/1c/tools/2299462/">Неофициальное обновление Управление торговлей 10.3.88.3 + НДС 5% и 7% + Книга продаж + Онлайн-кассы (доработка)</a></h4>
+> <small>Обновление для конфигурации Управление торговлей 10.3.88.3 добавляет поддержку ставок НДС 5% и 7%, обеспечивает корректную печать этих ставок на актуальных моделях торгового оборудования (АТОЛ, ШТРИХ, ревизия 4004), содержит актуальные правила обмена с конфигурацией &quot;Бухгалтерия предприятия 3.0&quot; для передачи новых ставок. Новые ставки НДС поддерживается в печатных формах УПД, ТТН и т.д.</small>  
+> <br clear="left">
+>
+> | :star: +20 |  :calendar: 31.01.2025 |  :speech_balloon: 18 |  :eyes: 1428 |
+>  |-|-|-|-|  
+> <img src="https://infostart.ru/upload/iblock/b85/b850adc38f0223dec437ee965d76b996.jpg?08b7bd4f-9bde-466d-bbf2-435be4eebf41" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/1791661/">Кровь, пот и GIT</a></h4>
 > <small>Ведущий разработчик 1С Андрей Карпов на конференции Infostart Event 2021 Post-Apocalypse поделился ошибками, которые совершают новички в работе с GIT. В докладе четыре кейса с пошаговыми инструкциями, которые позволят не допускать конфликтов в разработке.</small>  
 > <br clear="left">
 >
-> | :star: +75 |  :calendar: 17.01.2023 |  :speech_balloon: 47 |  :eyes: 13509 |
+> | :star: +75 |  :calendar: 17.01.2023 |  :speech_balloon: 47 |  :eyes: 13694 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/895/8950604280118c383a1e0c5aaae4997d.png?c1887a99-2fa7-4645-8537-448f5b0bb229" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/895/8950604280118c383a1e0c5aaae4997d.png?a0d62d44-4b1b-4f0f-8024-a2df83aae680" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/reports/1443392/">K-SOFT: Улучшенная форма отчета</a></h4>
 > <small>Если вы любитель добавлять много отборов на форму отчета, и вас раздражает, что отборы занимают большую часть отчета, и их никак не убрать, то вам сюда. Простая доработка, что позволит скрыть отборы на время анализа отчета.</small>  
 > <br clear="left">
 >
-> | :star: +28 |  :calendar: 19.05.2021 |  :speech_balloon: 20 |  :eyes: 10769 |
->  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/559/559d4aa039272b01571b0364ec0dbe46.png?d1e571b3-846c-4e8c-af97-e16f75b3316d" width="96" align="left"> 
-> <h4 style="color: white;"><a href="https://infostart.ru/1c/tools/1330826/">K-SOFT. Эмулятор ККТ с передачей данных. Управляемые формы. ФФД 1.1 (Ревизия 3002)</a></h4>
-> <small>Эмулятор ККТ с передачей данных позволяет печатать чеки, а также выводить их на экран в программе 1С без необходимости физического подключения фискальных регистраторов. Представляет из себя расширение, которое подключается к конфигурациям фирмы 1С, со встроенной библиотекой подключаемого оборудования (БПО). Вместо расширения, при желании, функционал можно включить и в конфигурацию. Поддерживает маркировку и печать чека коррекции с учетом проданной номенклатуры.</small>  
-> <br clear="left">
->
-> | :star: +64 |  :calendar: 23.11.2020 |  :speech_balloon: 143 |  :eyes: 43199 |
+> | :star: +28 |  :calendar: 19.05.2021 |  :speech_balloon: 20 |  :eyes: 10776 |
 >  |-|-|-|-|  
 </div>
